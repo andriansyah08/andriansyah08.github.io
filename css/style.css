@@ -440,6 +440,7 @@ a img {
 }
 .site-header {
   padding: 0.75em 5.55%;
+  background-color: red;
 }
 .site-header .container {
   margin: 0 auto;
@@ -534,7 +535,7 @@ a img {
 
 .site-header .site-description {
   opacity: 0;
-  color: #fff;
+  color: white;
 }
 
 .menu-unset > ul,
