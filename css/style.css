@@ -534,7 +534,7 @@ a img {
 
 .site-header .site-description {
   opacity: 0;
-  color: white;
+  color: #222;
 }
 
 .menu-unset > ul,
