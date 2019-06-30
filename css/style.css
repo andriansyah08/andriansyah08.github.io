@@ -136,13 +136,12 @@ code {
   -webkit-border-radius: 2px;
   border-radius: 2px;
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
-  background-color: #f8f8f8;
+  background-color: red;
 }
 .outer {
   max-width: 1320px;
   margin: 0 auto;
   padding: 0 20px;
-  background-color: red;
 }
 .outer:before,
 .outer:after {
