@@ -529,6 +529,7 @@ code {
 }
 #search-form-wrap .search-form .search-form-submit:before {
   content: '\f002';
+  color: #fff;
 }
 #search-form-wrap .search-form .search-form-submit:hover,
 #search-form-wrap .search-form .search-form-submit:focus {
