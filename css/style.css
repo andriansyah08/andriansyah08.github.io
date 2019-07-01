@@ -1905,6 +1905,7 @@ ol.toc {
 #recent-post li .item-inner a,
 #recent-post li .item-inner .item-category {
   font-size: 13px;
+  text-transform: lowercase;
 }
 #recent-post li .item-inner a a,
 #recent-post li .item-inner .item-category a {
