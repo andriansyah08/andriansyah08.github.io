@@ -639,6 +639,7 @@ code {
 .profile-block {
   padding: 15px 20px;
   border-bottom: 1px solid #eceff2;
+  border-radius: 5px;
 }
 .profile-block:last-child {
   border-bottom: none;
@@ -649,7 +650,6 @@ code {
   width: 21.53846153846154%;
   margin: 0 0.769230769230769%;
   display: none;
-  border-radius: 5px; 
 }
 @media screen and (min-width: 1200px) {
   #profile {
