@@ -607,10 +607,16 @@ code {
   #main-nav-mobile .menu .search-form-input {
     display: block;
   }
+
+
+  /** ###### PENAMBAHAN ##### **/
   #disqus_thread {
 
   	padding: 10px 20px;
   }
+
+
+
 }
 #main-nav-mobile .menu .search-form-input::-webkit-search-results-decoration,
 #main-nav-mobile .menu .search-form-input::-webkit-search-cancel-button {
@@ -643,6 +649,7 @@ code {
   width: 21.53846153846154%;
   margin: 0 0.769230769230769%;
   display: none;
+  border-radius: 5px; 
 }
 @media screen and (min-width: 1200px) {
   #profile {
