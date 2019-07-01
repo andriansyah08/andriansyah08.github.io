@@ -335,7 +335,7 @@ code {
   font-weight: bold;
 }
 #header {
-  background: red;
+  background: #009688;
   position: relative;
 }
 #header a,
@@ -345,7 +345,7 @@ code {
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: #565a5f;
+  color: #fff;
 }
 #header a:hover {
   color: #38b7ea;
