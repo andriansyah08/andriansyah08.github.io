@@ -335,7 +335,7 @@ code {
   font-weight: bold;
 }
 #header {
-  background: #red;
+  background: red;
   position: relative;
 }
 #header a,
