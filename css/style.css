@@ -532,7 +532,7 @@ code {
 }
 #search-form-wrap .search-form .search-form-submit:hover,
 #search-form-wrap .search-form .search-form-submit:focus {
-  color: #fff;
+  color: #C5CAE9;
 }
 .search-form-input,
 .search-form-input.ins-search-input,
@@ -559,7 +559,7 @@ code {
   outline: none !important;
   background: none !important;
   font: 14px "open sans", "Helvetica Neue", "Microsoft Yahei", Helvetica, Arial, sans-serif;
-  border: 1px solid #fff !important;
+  border: 1px solid #C5CAE9 !important;
 }
 .search-form-input:focus,
 .search-form-input.ins-search-input:focus,
