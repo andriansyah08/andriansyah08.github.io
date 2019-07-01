@@ -826,6 +826,19 @@ a.article-title:visited {
 a.article-title:hover {
   color: #38b7ea;
 }
+
+/** PENAMBAHAN **/
+.article-comment-link {
+  float: right;
+}
+.article-comment-link:before {
+  content: "\f075";
+  font-family: FontAwesome;
+  padding-right: 5px;
+}
+
+
+
 @media screen and (max-width: 559px) {
   .article-title {
     font-size: 1.6em;
@@ -1044,7 +1057,6 @@ a.article-title:hover {
 }
 .article-comment-link {
   float: right;
-  padding: 20px;
 }
 .article-comment-link:before {
   content: "\f075";
