@@ -728,6 +728,7 @@ code {
 #profile .inner .article-info .article-info-block span {
   display: block;
   font-size: 14px;
+  text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
   border-right: 1px solid #eceff2;
@@ -1904,7 +1905,6 @@ ol.toc {
 #recent-post li .item-inner a,
 #recent-post li .item-inner .item-category {
   font-size: 13px;
-  text-transform: uppercase;
 }
 #recent-post li .item-inner a a,
 #recent-post li .item-inner .item-category a {
