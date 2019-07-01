@@ -220,10 +220,11 @@ code {
 }
 .article-meta,
 .archive-year,
-.widget-title {
+.widget-title,
+ {
   line-height: 1em;
   text-decoration: none;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 #header,
 #profile .inner,
@@ -1905,7 +1906,7 @@ ol.toc {
 #recent-post li .item-inner a,
 #recent-post li .item-inner .item-category {
   font-size: 13px;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 #recent-post li .item-inner a a,
 #recent-post li .item-inner .item-category a {
