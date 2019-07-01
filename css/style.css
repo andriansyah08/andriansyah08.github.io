@@ -728,7 +728,6 @@ code {
 #profile .inner .article-info .article-info-block span {
   display: block;
   font-size: 14px;
-  text-transform: uppercase;
 }
 #profile .inner .article-info .article-info-block:first-child {
   border-right: 1px solid #eceff2;
